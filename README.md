@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shahd 👋
 
-<!--
-**Shahdud/Shahdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Modern Academy
 
-Here are some ideas to get you started:
+## About Me
+- 📱 Interested in Mobile Development
+- 💻 Interested in Front-End Development
+- 📊 Currently Learning Data Engineering
+- 🤖 Currently Learning AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- C++
+- HTML
+- CSS
+- JavaScript
+- Dart
+
+## Currently
+- 📚 Mobile Development Course at Route Academy
+- 🚀 AI-Based Software Engineering at Ray Academy
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/shahd-mostafa-3b0b3928b
+- Email: shahdudu14@gmail.com
