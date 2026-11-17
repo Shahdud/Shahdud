@@ -6,8 +6,7 @@ I'm passionate about building mobile and web applications and continuously impro
 
 ## 🚀 Currently Learning
 - 📱 Mobile Development (Flutter)
-- 🌐 Front-End Development
-- 📊 Data Engineering
+- 📊 Data Analysis
 - 🤖 AI-Based Software Engineering
 
 ## 💻 Technical Skills
@@ -16,6 +15,8 @@ I'm passionate about building mobile and web applications and continuously impro
 - CSS
 - JavaScript
 - Dart
+- Flutter
+- React Native
 
 ## 📚 Training
 - Mobile Development - Route Academy
